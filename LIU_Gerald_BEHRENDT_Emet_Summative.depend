@@ -1,0 +1,312 @@
+# depslib dependency file v1.0
+1557513341 source:d:\gerald\liu_helloworld\asdf\playfunctions.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557513341 d:\gerald\liu_helloworld\asdf\functions.h
+
+1557513468 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\main.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557513341 d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\functions.h
+
+1557858163 source:d:\assignments\allegro\summative 4\behrendt_emet_liu_gerald_summative (2)\behrendt_emet_liu_gerald_summative\main.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557775167 d:\assignments\allegro\summative 4\behrendt_emet_liu_gerald_summative (2)\behrendt_emet_liu_gerald_summative\functions.h
+
+1557857148 source:d:\assignments\allegro\summative 4\behrendt_emet_liu_gerald_summative (2)\behrendt_emet_liu_gerald_summative\playfunctions.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557775797 source:d:\assignments\allegro\summative 4\behrendt_emet_liu_gerald_summative (2)\behrendt_emet_liu_gerald_summative\initialize.cpp
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557858408 source:d:\gerald\liu_helloworld\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\initialize.cpp
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557859010 d:\gerald\liu_helloworld\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\functions.h
+
+1557859271 source:d:\gerald\liu_helloworld\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\main.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1557948418 source:d:\gerald\liu_helloworld\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\playfunctions.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557948806 source:d:\assignments\allegro\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\initialize.cpp
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1558119701 d:\assignments\allegro\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\functions.h
+
+1558120112 source:d:\assignments\allegro\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\main.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1558122843 source:d:\assignments\allegro\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\playfunctions.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1557948808 source:c:\users\emet\desktop\school\grade 11\ics3u\allegro\summative 1\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\initialize.cpp
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1558209553 c:\users\emet\desktop\school\grade 11\ics3u\allegro\summative 1\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\functions.h
+
+1558120114 source:c:\users\emet\desktop\school\grade 11\ics3u\allegro\summative 1\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\main.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1558280933 source:c:\users\emet\desktop\school\grade 11\ics3u\allegro\summative 1\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\playfunctions.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1558210027 source:c:\users\emet\desktop\school\grade 11\ics3u\allegro\summative 1\summative 6\stopcrossingtheborde (4)\stopcrossingtheborde\behrendt_emet_liu_gerald_summative\collision.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+
+1559159514 source:d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\collision.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559329857 d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\functions.h
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1559159514 source:d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\initialize.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559241225 source:d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\main.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559159563 source:d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\playfunctions.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559241504 source:d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\display.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559159514 source:d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\images.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559330315 source:d:\assignments\allegro\summative 7\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\menus.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559671473 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\collision.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559762879 d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\functions.h
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1559672706 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\display.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559671473 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\images.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559762197 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\initialize.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559764085 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\main.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559764668 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\menus.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1559763568 source:d:\gerald\liu_helloworld\behrendt_emet_liu_gerald_summative\behrendt_emet_liu_gerald_summative\playfunctions.cpp
+	<stdio.h>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"functions.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+

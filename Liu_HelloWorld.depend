@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1556131154 source:d:\gerald\liu_helloworld\main.cpp
-	<stdio.h>
-	<sstream>
-	<allegro5/allegro.h>
-	<allegro5/allegro_image.h>
-	<allegro5/allegro_native_dialog.h>
-
